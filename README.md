@@ -107,7 +107,7 @@ The project includes various visualizations such as:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/exploratory-data-analysis.git
+git clone https://github.com/savitridarur97/WHO-Analysis-.git
 ```
 
 ### 2. Navigate to the Project Folder
@@ -174,24 +174,5 @@ The notebook provides:
 
 ## 👤 Author
 
-**Your Name**
+** savitri darur**
 
-- 💼 Data Analyst
-- 🐍 Python Developer
-- 📊 Data Visualization Enthusiast
-
-GitHub: https://github.com/yourusername
-
-LinkedIn: https://linkedin.com/in/yourprofile
-
----
-
-## ⭐ Support
-
-If you found this project helpful, please consider giving it a ⭐ on GitHub!
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
